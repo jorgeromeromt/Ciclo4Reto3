@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-RetodosApplication<zorrillo_2>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.cuatroa.retodos.RetodosApplication",
+            "projectName": "zorrillo_2",
+            "args": ""
+        }
+    ]
+}
